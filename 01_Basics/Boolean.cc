@@ -2,7 +2,7 @@
 
 // !true == false
 // !false == true
-//a
+//b
 int main()
 {
     int number;
